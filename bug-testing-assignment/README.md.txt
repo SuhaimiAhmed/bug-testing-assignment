@@ -3,7 +3,7 @@
 ## Overview
 This repository contains my software testing assignment focusing on bug identification and bug tracking using Bugzilla demo server.
 
-**Course:** Software Engineering  
+**Course:** Software Testing  
 **Date:** November 14, 2025  
 **Student:** Ahmed Alsuhaimi
 
@@ -95,5 +95,6 @@ bug-testing-assignment/
 - All bugs were reported on Bugzilla demo server: https://bugzilla52.allizgub.org/
 - Bug IDs: #1311, #1312, #1313
 - Part 3 (Bug Workflow Management) to be completed with team member assignment
+
 
 ---
