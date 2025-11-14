@@ -5,7 +5,7 @@ This repository contains my software testing assignment focusing on bug identifi
 
 **Course:** Software Testing  
 **Date:** November 14, 2025  
-**Students:** Ahmed Alsuhaimi - 
+**Students:** Ahmed Alsuhaimi (202200615) - Abdullah Aldosari (202100345)
 
 ---
 
