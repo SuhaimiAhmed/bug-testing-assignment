@@ -3,7 +3,7 @@
 ## Overview
 This repository contains my software testing assignment focusing on bug identification and bug tracking using Bugzilla demo server.
 
-**Course:** Software Testing  
+**Course:** Software Testing and QUality Assurance
 **Date:** November 14, 2025  
 **Students:** Ahmed Alsuhaimi (202200615) - Abdullah Aldosari (202100345)
 
